@@ -2,12 +2,10 @@
 
 🔭 I’m currently working on building modern UI/UX websites and full-stack projects
 👯 I’m looking to collaborate on innovative web apps, front-end development, and software engineering projects 
-🤝 I’m looking for help with **scalable application architecture, advanced React patterns, performance optimization in Python & C++, and cloud-native deployment strategies (CI/CD, Docker, Kubernetes, AWS/GCP/Azure)
+🤝 I’m looking for help with scalable application architecture, advanced React patterns, performance optimization in Python & C++, and cloud-native deployment strategies (CI/CD, Docker, Kubernetes, AWS/GCP/Azure)
 🌱 I’m currently expanding my expertise in **full-stack software engineering, mobile development using React Native, backend microservices, and mastering system design principles with Python & C++
 💬 Ask me about front-end design (HTML, CSS, JS), web animations, responsive UI, and software engineering concepts
 ⚡ Fun fact: I turn complex ideas into simple, stunning interfaces — and I believe progress is progress, no matter how small.
-
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sylvesterwaweru74@gmail.com) 
