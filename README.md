@@ -5,11 +5,17 @@ Here’s the same section cleaned up and spaced properly (no emojis, properly st
 ## About Me
 
 I’m currently working on building modern UI/UX websites and full-stack projects.
+
 I’m looking to collaborate on innovative web applications, front-end development, and software engineering projects.
-I’m seeking help with scalable application architecture, advanced React patterns, performance optimization in Python & C++, and cloud-native deployment strategies (CI/CD, Docker, Kubernetes, AWS/GCP/Azure).
+
+I’m seeking help with scalable application architecture, advanced React patterns, performance optimization in Python & C++, and cloud-native deployment strategies (CI/CD, Docker, 
+Kubernetes, AWS/GCP/Azure).
 I’m expanding my expertise in full-stack software engineering, mobile development using React Native, backend microservices, and mastering system design principles with Python & C++.
+
 Ask me about front-end design (HTML, CSS, JavaScript), web animations, responsive UI, and software engineering concepts.
+
 Fun fact: I turn complex ideas into simple, stunning interfaces — and I believe progress is progress, no matter how small.
+
 Always learning, constantly improving, and open to new challenges and opportunities.
 
 ---
@@ -40,4 +46,3 @@ React, React Native, Vite, Apache, Supabase, MongoDB
 
 ---
 
-If you also want it without badges (just text only), or adjust spacing further for GitHub profile responsiveness, let me know. Want me to optimize further for recruiters or add a call-to-action section like **“Let’s Connect”** or **“Current Projects”**?
