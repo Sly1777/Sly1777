@@ -1,15 +1,7 @@
 💫 About Me
-I’m a Software & AI Engineer focused on building intelligent, scalable applications. I specialize in developing full-stack foundations and reliable API layers that move AI-powered features from prototype to production-ready software.
-🛠️ What I Do
-Full-Stack Development: Building modular backend services and user-centric interfaces with a focus on clean, maintainable code.
-API Design & Integration: Designing secure APIs that serve as the connective tissue between modern platforms and services.
-AI Implementation: Implementing LLMs and architecting automated workflows (like RAG systems) to solve real-world problems.
-Cloud & DevOps(Foundations): Developing a strong groundwork in cloud networks, containerization (Docker), and CI/CD. I am currently learning how to efficiently deploy and manage services across AWS, GCP, and Azure
-🧠 Current Focus
-I’m currently focused on making AI systems more resilient, optimizing cloud networks for model performance, and exploring how automated workflows can solve complex business logic.
-💬 Ask me about: Full-Stack Development, API Design, or AI Integration.
-“Progress is progress, no matter how small—always learning and shipping code that solves real problems.” 🐾
-
+Backend Software Engineer | Java · Spring Boot · Python · Node.js
+Building scalable APIs, robust backend systems, and databases (PostgreSQL · MySQL · Oracle DB)
+Exploring cloud architecture, DevOps on AWS, and AI integrations.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sylvesterwaweru74@gmail.com) 
