@@ -1,4 +1,5 @@
-💫 About Me
+🧑‍💻 About Me
+
 Backend Software Engineer | Java · Spring Boot · Python · Node.js
 Building scalable APIs, robust backend systems, and databases (PostgreSQL · MySQL · Oracle DB)
 Exploring cloud architecture, DevOps on AWS, and AI integrations.
